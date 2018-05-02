@@ -1,0 +1,13 @@
+{
+  "title":"WNG",
+  "lan":"language switch",
+  "zh": "中文",
+  "en": "English",
+  "header":{
+    "setting": "Settings",
+    "logout": "Logout"
+  },
+  "nav":{
+
+  }
+}

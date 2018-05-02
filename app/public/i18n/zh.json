@@ -1,0 +1,13 @@
+{
+  "title":"无线网络卫士",
+  "lan":"语言切换",
+  "zh": "中文",
+  "en": "English",
+  "header":{
+      "setting": "设置",
+      "logout": "退出"
+  },
+  "nav":{
+
+  }
+}
